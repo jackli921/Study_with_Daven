@@ -1,0 +1,23 @@
+# Ignore build folders
+bin/
+obj/
+
+# Ignore other files that should not be committed
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.dll
+*.pdb
+*.exe
+*.cache
+*.csproj.core
+*.csproj.user
+
+# Ignore the packages folder
+packages/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
