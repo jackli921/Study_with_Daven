@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{B9611344-A6C0-4278-BE3A-6183F74272F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList.csproj", "{B9611344-A6C0-4278-BE3A-6183F74272F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
